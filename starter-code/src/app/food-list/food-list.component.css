@@ -1,4 +1,14 @@
-img {
-  height: 150px;
+.food-img {
   width: 200px;
+  height: auto;
+  margin: 15px 0;
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+div {
+  margin-bottom: 20px;
 }
